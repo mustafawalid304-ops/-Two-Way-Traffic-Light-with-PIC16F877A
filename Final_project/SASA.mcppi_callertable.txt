@@ -1,0 +1,14 @@
+main
+	__CC2DW
+		____DoICP
+	west
+		west_green
+		west_yellow
+	south
+		south_green
+		south_yellow
+interrupt
+	south_green
+	south_yellow
+	west_green
+	west_yellow
